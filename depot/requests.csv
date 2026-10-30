@@ -1,0 +1,6 @@
+sequence,request_id,site,item,units_needed,priority
+10,RQ-A,North Pier,blanket,7,1
+20,RQ-B,East School,water,9,1
+30,RQ-C,West Clinic,blanket,6,2
+40,RQ-D,South Hall,hygiene,5,2
+50,RQ-E,Harbor Annex,water,8,3

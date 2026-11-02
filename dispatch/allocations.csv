@@ -1,0 +1,11 @@
+request_id,site,item,lot_id,expires,units_allocated
+RQ-A,North Pier,blanket,LT-001,2026-10-05,5
+RQ-A,North Pier,blanket,LT-003,2026-10-06,2
+RQ-B,East School,water,LT-005,2026-10-02,9
+RQ-C,West Clinic,blanket,LT-003,2026-10-06,4
+RQ-C,West Clinic,blanket,LT-004,2026-10-06,2
+RQ-D,South Hall,hygiene,LT-008,2026-10-09,3
+RQ-D,South Hall,hygiene,LT-009,2026-10-10,1
+RQ-E,Harbor Annex,water,LT-005,2026-10-02,1
+RQ-E,Harbor Annex,water,LT-006,2026-10-03,4
+RQ-E,Harbor Annex,water,LT-010,2026-10-04,2
